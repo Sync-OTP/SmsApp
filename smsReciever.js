@@ -59,7 +59,7 @@ const SmsReciever = ()=>{
 
   return(
     <>
-      <Text>UI here</Text>
+      <Text>...</Text>
     </>
   )
 }
